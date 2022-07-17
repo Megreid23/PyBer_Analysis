@@ -11,3 +11,7 @@ In this analysis, we identified the company's ride share data spanning different
 * In this last image, we can see the reflection of these trends outlined previously in the data shown over a four month period. Urban has a much higher generated revenue than either suburban or rural. ![PyBer_fare_summary](/analysis/PyBer_fare_summary.png)
 
 ## Summary
+In conclusion, the recommendations that can be made based on the data to address the disparities between urban, suburban, and rural city types are:
+* Offer promotional pricing to encourage people to use the ride share service, particularly in the rural areas. 
+* Additionally, increase employment benefits (again primarily in the rural areas) to encourage drivers to sign on and be available to provide the required services that would hopefully come in with the offered promotional pricing.
+* An ad campaign addressing the benefits of using PyBer, specifically in regards to ride fare and safety of using their service, would also help draw in customers in rural and suburban areas.
