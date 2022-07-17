@@ -15,3 +15,6 @@ In conclusion, the recommendations that can be made based on the data to address
 * Offer promotional pricing to encourage people to use the ride share service, particularly in the rural areas. 
 * Additionally, increase employment benefits (again primarily in the rural areas) to encourage drivers to sign on and be available to provide the required services that would hopefully come in with the offered promotional pricing.
 * An ad campaign addressing the benefits of using PyBer, specifically in regards to ride fare and safety of using their service, would also help draw in customers in rural and suburban areas.
+
+
+### Please note every image displayed does have a title and axes labels. May need to be viewed in light mode to be seen.
