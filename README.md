@@ -5,6 +5,9 @@ In this analysis, we identified the company's ride share data spanning different
 
 ## Results
 ![Fig1](/analysis/Fig1.png)
-
+![Fig5](/analysis/Fig5.png)
+![Fig6](/analysis/Fig6.png)
+![Fig7](/analysis/Fig7.png)
+![PyBer_fare_summary](/analysis/PyBer_fare_summary.png)
 
 ## Summary
